@@ -14,12 +14,12 @@ import org.springframework.boot.test.context.SpringBootTest;
 class DockerDemoApplicationTests {
 
 	
-	public   Logger logger = (Logger) LoggerFactory.getLogger(DockerDemoApplicationTests.class);
+	//public   Logger logger = (Logger) LoggerFactory.getLogger(DockerDemoApplicationTests.class);
 	
 	@Test
 	void contextLoads() {
 		
-		logger.info("welcome to jenkin");
+		//logger.info("welcome to jenkin");
 		assertEquals(true, true);
 	}
 
