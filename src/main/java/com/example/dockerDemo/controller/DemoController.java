@@ -12,7 +12,7 @@ public class DemoController
 	@GetMapping("/home")
 	public String massage()
 	{
-		return "Welcome to Docker world";
+		return "Welcome to Docker";
 	}
 	
 	@GetMapping("/msg")
