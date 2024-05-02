@@ -10,8 +10,6 @@ public class DockerDemoApplication {
 		SpringApplication.run(DockerDemoApplication.class, args);
 
 		System.out.println("welcome");
-		System.out.println("welcome");
-		System.out.println("welcome");
 	}
 
 }
